@@ -3,7 +3,6 @@
 * JavaScript 简介
 * 如何使用JavaScript
 * 代码的注释
-* JavaScript基本语法
 
 ### JavaScript 简介
 &ensp;&ensp;JavaScript一种直译式脚本语言，是一种动态类型、弱类型、基于原型的语言，内置支持类型。它的解释器被称为JavaScript引擎，为浏览器的一部分，广泛用于客户端的脚本语言，最早是在HTML（标准通用标记语言下的一个应用）网页上使用，用来给HTML网页增加动态功能。<br>
@@ -35,3 +34,17 @@ javaScript的用途是解决页面交互和数据交互，最终目的是丰富�
  2 浏览器BOM
  
  3 浏览器 DOM
+
+### JavaScript 如何使用
+     在html页面使用 script标签 
+     <script>  
+     // do something... 
+       alert('我是alert弹框')
+     </script>
+     如果是引用外部代码 <script src="外部javascript的路径"></script>
+
+### JavaScript 代码注释
+     代码注释由两种 注释，单行注释和多行注释
+     单行注释 使用两个斜杠 //
+     多行注释 使用一个斜杠和星号 的闭合路径 如 /* 注释 */
+     
