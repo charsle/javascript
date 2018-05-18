@@ -1,6 +1,6 @@
 # JavaScript 目录简介
 
-### JavaScript 简介
+### <a href="./javascript-lesson01.md">JavaScript 简介</a>
 ### JavaScript 的变量
 ### JavaScript 的数据类型
 ### JavaScript 隐式转换
